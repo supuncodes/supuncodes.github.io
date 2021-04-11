@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg6" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" sodipodi:docname="seo plugin.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="path2" fill="#FFFFFF" d="M320,256v-21.333c0-11.776,9.558-21.333,21.333-21.333c11.776,0,21.334,9.557,21.334,21.333V256
+	c11.775,0,21.333,9.558,21.333,21.334v64c0,35.349-28.65,63.999-64,63.999V448c0,11.776-9.558,21.333-21.334,21.333
+	c-11.775,0-21.332-9.557-21.332-21.333v-42.667c-35.35,0-64-28.65-64-63.999v-64c0-11.776,9.557-21.334,21.333-21.334v-21.333
+	c0-11.776,9.558-21.333,21.333-21.333c11.775,0,21.334,9.557,21.334,21.333V256H320z M341.333,298.666H256v42.668
+	c0,11.775,9.557,21.332,21.334,21.332H320c11.776,0,21.333-9.557,21.333-21.332V298.666z M85.333,170.667V320h64
+	c11.776,0,21.333,9.557,21.333,21.334c0,11.775-9.557,21.332-21.333,21.332H64c-11.776,0-21.333-9.557-21.333-21.332V64
+	c0-11.776,9.558-21.333,21.333-21.333h384c11.776,0,21.333,9.558,21.333,21.333v277.334c0,11.775-9.557,21.332-21.333,21.332
+	s-21.333-9.557-21.333-21.332V170.667H85.333z M426.667,85.333h-256V128h256V85.333z M85.333,85.333V128H128V85.333H85.333z"/>
+</svg>
